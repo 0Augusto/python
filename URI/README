@@ -1,0 +1,50 @@
+Programas do URI judge online desenvolvido em python 3, o formato aceito 
+pelo URI para a função print para int, float respectivamente são: 
+
+print('valor = %d', %valInt)
+print('valor = %f', %valFloat)
+
+LEMBRANDO QUE: print em python 3 é uma função e requer que o que seja impresso na tela esteja entre parênteses, diferentemente de python 2 que não exige tal formato, pelo fato de que, print em python 2 não ser uma função.
+
+Para precisão de 'n' casa decimais (float) usa-se a notação: print('valor = %0.5f' %valFloat), nesse caso, teremos uma precisão de (5) cinco casas após a vírgula.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
