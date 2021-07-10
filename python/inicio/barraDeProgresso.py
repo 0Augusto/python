@@ -1,5 +1,5 @@
 '''
-Programa que mostra uma barra de processamento
+Programa que mostra uma barra de progresso
 '''
 from tqdm import tqdm #Biblioteca de progresso que, mostra de forma iterativa uma barra de progresso, com um tempo estimado para a conclusao do processo.
 
