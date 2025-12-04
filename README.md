@@ -672,8 +672,8 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 📞 Suporte
 
-- **Issues**: [GitHub Issues](https://github.com/seuusuario/ip-camera-portal/issues)
-- **Documentação**: [Wiki do Projeto](https://github.com/seuusuario/ip-camera-portal/wiki)
+- **Issues**: [GitHub Issues]\
+- **Documentação**: [Wiki do Projeto]
 - **Email**: 
 
 ## 🔗 Links Úteis
