@@ -1,0 +1,6 @@
+{
+  "portal_api_url": "https://your-actual-portal-api.com",
+  "portal_api_key": "your-actual-api-key",
+  "virtual_ip_base": "192.168.1.200",
+  "network_interface": "eth0"
+}
